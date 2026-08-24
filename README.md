@@ -4,7 +4,6 @@
   Full-Stack Developer • AI/ML Enthusiast 
 </h3>
 
----
 
 ## 🚀 About Me
 
@@ -14,7 +13,6 @@
 * 💻 Exploring **Full-Stack & Backend Development**
 * 🎯 Always learning, building, and experimenting with new technologies
 
----
 
 ## 🧠 Tech Stack
 
@@ -46,7 +44,6 @@
 </a>
 </p>
 
----
 
 ### 🌐 Web Development
 
@@ -94,7 +91,6 @@
 </a>
 </p>
 
----
 
 ### 📱 Mobile Development
 
@@ -108,7 +104,6 @@
 </a>
 </p>
 
----
 
 ### 🤖 AI / ML & Data Science
 
@@ -138,7 +133,6 @@
 </a>
 </p>
 
----
 
 ### 🗄️ Databases
 
@@ -164,7 +158,6 @@
 </a>
 </p>
 
----
 
 ### 🛠️ Tools & Platforms
 
@@ -178,7 +171,6 @@
 </a>
 </p>
 
----
 
 ## 🎯 Current Focus
 
@@ -186,7 +178,6 @@
 
 I'm currently focused on strengthening my fundamentals in **DSA**, improving my **backend development** skills, and building projects around **AI and modern software development**.
 
----
 
 ## 📫 Connect With Me
 
@@ -202,7 +193,6 @@ I'm currently focused on strengthening my fundamentals in **DSA**, improving my 
 
 📧 **Email:** `ravirazze10@gmail.com`
 
----
 
 <p align="center">
 <i>Thanks for visiting my profile! 🚀</i>
