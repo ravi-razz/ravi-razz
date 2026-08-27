@@ -38,10 +38,6 @@
 <a href="https://www.typescriptlang.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
 </a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://kotlinlang.org/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40" alt="Kotlin"/>
-</a>
 </p>
 
 
