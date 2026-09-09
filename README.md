@@ -17,21 +17,21 @@
 ```javascript
 const ravi = {
   education: "B.Tech Computer Science & Engineering",
-  role: "Full-Stack Developer & AI/ML Enthusiast",
+  role: ["Full-Stack Developer", "AI/ML Enthusiast", "Creative Editor"],
 
   code: ["Python","C++","JavaScript"],
   frontend: ["HTML","CSS","React","Redux","Tailwind CSS"],
   backend: ["Node.js","Express.js","Flask","Django","FastAPI"],
-  mobile_Development: ["Android","Kotlin","Jetpack Compose"],
+  mobile_development: ["Android Studio","Kotlin","Jetpack Compose"],
   ai_ml: ["PyTorch","TensorFlow","Scikit-Learn","OpenCV"],
   data_Science: ["Pandas","NumPy","Matplotlib","Seaborn"],
   databases: ["MongoDB","MySQL","PostgreSQL","SQLite","Firebase"],
   tools: ["Git","GitHub","Docker","AWS",],
 
   creative: {
-  videoEditing: "DaVinci Resolve",
-  photoEditing: "Adobe Lightroom",
-  visualDesign: "Adobe Photoshop"
+   videoEditing: "DaVinci Resolve",
+   photoEditing: "Adobe Lightroom",
+   visualDesign: "Adobe Photoshop"
   },
 
   interests: {
