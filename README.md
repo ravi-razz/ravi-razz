@@ -19,12 +19,12 @@ const ravi = {
   education: "B.Tech Computer Science & Engineering",
   role: ["Full-Stack Developer", "AI/ML Enthusiast", "Creative Editor"],
 
-  code: ["Python","C++","JavaScript"],
+  code: ["Python","JavaScript","C++"],
   frontend: ["HTML","CSS","React","Redux","Tailwind CSS"],
-  backend: ["Node.js","Express.js","Flask","Django","FastAPI"],
+  backend: ["Node.js","Express.js","FastAPI"],
   mobile_development: ["Android Studio","Kotlin","Jetpack Compose"],
   ai_ml: ["PyTorch","TensorFlow","Scikit-Learn","OpenCV"],
-  data_Science: ["Pandas","NumPy","Matplotlib","Seaborn"],
+  data_science: ["NumPy","Pandas","Matplotlib","Seaborn"],
   databases: ["MongoDB","MySQL","PostgreSQL","SQLite","Firebase"],
   tools: ["Git","GitHub","Docker","AWS",],
 
@@ -45,7 +45,7 @@ const ravi = {
 
    creative: [
      "Photo & Video Editing",
-     "Visual Design"
+     "Filmmaking"
     ]
    }
 
